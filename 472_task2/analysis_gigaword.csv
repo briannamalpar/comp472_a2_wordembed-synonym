@@ -1,0 +1,2 @@
+model_name,vocab_size,C,V,accuracy
+gigaword500-5th-edition,261794,50,63,0.7936507936507936

@@ -1,0 +1,2 @@
+model_name,vocab_size,C,V,accuracy
+English-CoNLL17,4027169,61,80,0.7625
