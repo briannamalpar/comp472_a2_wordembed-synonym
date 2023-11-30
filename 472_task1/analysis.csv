@@ -1,2 +1,2 @@
 model_name,vocab_size,C,V,accuracy
-word2vec-google-news-300,3000000,70,70,1.0
+word2vec-google-news-300,3000000,71,79,0.8987341772151899
