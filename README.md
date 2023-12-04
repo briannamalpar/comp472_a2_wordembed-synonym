@@ -10,6 +10,7 @@ Task 3: Own word2vec model
 word2vec_google-news-300 ACCURACY: 0.8987
 
 gigaword500-5th-edition ACCURACY: 0.7936
+
 EngCoNLL17 ACCURACY: 0.7625
 
 Own word2vec model ACCURACY:  Window size 5, Embedding size 100: 0.4259
